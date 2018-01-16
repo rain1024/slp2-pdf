@@ -1,3 +1,6 @@
+[![Download](https://img.shields.io/badge/download-bookmarked%20book-orange.svg)](https://github.com/rain1024/slp2-pdf/blob/master/complete-book-pdf/slp2.pdf)
+[![Download](https://img.shields.io/badge/download-book-brightgreen.svg)](https://github.com/rain1024/slp2-pdf/blob/master/complete-book-bookmarked-pdf/slp2.pdf)
+
 # Speech and Language Processing, 2nd Edition
 
 Speech and Language Processing, 2nd Edition in PDF format (complete and parts) by Daniel Jurafsky, James H. Martin
